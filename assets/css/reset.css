@@ -1,0 +1,19 @@
+*, 
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-weight: 800
+}
+
+body h1 {
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+body p {
+    font-size: 21px;
+}
