@@ -11,7 +11,7 @@ Portanto, o conteúdo dos cartões se mantém sempre dinâmico, gerando um novo 
 
 <img src="./assets/img/demo-de-tela.gif" alt="Screen demonstration" />
 
-Acesse a página no ar [clicando aqui](https://guihcastro.github.io/dis-advice-generator-frontend-mentor/).
+Acesse a página no ar [clicando aqui](https://guihcastro.github.io/advice-generator-frontend-mentor/).
 
 
 
