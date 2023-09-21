@@ -1,30 +1,15 @@
-# (dis)Advice Generator - Frontend Mentor
+# Advice Generator - Frontend Mentor
 
-## Etapa 1 com HTML e CSS
+## Projeto completo com HTML, CSS e JavaScript
 
 Exercício baseado no [desafio do Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
-Por ora, fiz apenas a primeira etapa, criando a estrutura com HTML e estilizando com CSS.
-
-Posteriormente adiocionarei as funcionalidades com JS e API.
-
-### Adaptação
-
-O [desafio original](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) propõe a criação de um gerador de cartões com conselhos e mensagens positivas.
-
-Apenas por diversão, optei por fazer uma corruptela deste, criando um gerador de "desconselhos" ou frases "desmotivacionais", por isso entitulei o meu como "(dis)Advice Generator".
-
-
+Desenvolvi toda a estrutura do código como forma de estudo e aplicação dos fundamentos para o consumo de uma API.
+Portanto, o conteúdo dos cartões se mantém sempre dinâmico, gerando um novo conselho aleatório tanto ao carregar a página quanto ao clicar no botão.
 
 ## Resultado
 
-![Medium-Screen-1024x800](C:\Users\Acer\Downloads\Medium-Screen-1024x800.png)
-
-- Desktop
-
-![iPhone-XS-X-375x812](C:\Users\Acer\Downloads\iPhone-XS-X-375x812.png)
-
-- Mobile
+<img src="./assets/img/demo-de-tela.gif" alt="Screen demonstration" />
 
 Acesse a página no ar [clicando aqui](https://guihcastro.github.io/dis-advice-generator-frontend-mentor/).
 
@@ -32,4 +17,6 @@ Acesse a página no ar [clicando aqui](https://guihcastro.github.io/dis-advice-g
 
 ## Tecnologias utilizadas
 
-![icons8-html-5-48](C:\Users\Acer\Downloads\icons8-html-5-48.png) ![icons8-css3-48](C:\Users\Acer\Downloads\icons8-css3-48.png) 
+- <img height="25" src="./assets/img/html-5.png" alt="HTML Icon" /> HTML 
+- <img height="25" src="./assets/img/css-3.png" alt="HTML Icon" /> CSS 
+- <img height="25" src="./assets/img/js.png" alt="HTML Icon" /> JavaScript 

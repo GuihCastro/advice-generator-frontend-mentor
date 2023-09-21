@@ -4,31 +4,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Frontend Mentor | (dis)Advice generator app coding challenge</title>
+    <title>Frontend Mentor | Advice generator app coding challenge</title>
     <link rel="shortcut icon" href="./assets/img/favicon-32x32.png" type="image/x-icon">
 
-    <link rel="stylesheet" href="./assets/css/reset.css">
-    <link rel="stylesheet" href="./assets/css/variables.css">
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/responsive.css">
+    <link rel="stylesheet" href="./assets/css/reset.css" />
+    <link rel="stylesheet" href="./assets/css/variables.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/responsive.css" />
 </head>
 
 <body>
     <section class="container">
         <main class="card">
-                <h1 class="advice-number">(dis)Advice #40</h1>
-                <p class="advice">"You can't change your past, but you can ruin your future."</p>
+                <h1 class="advice-number">Advice #<span id="advice-number"></span></h1>
+                <p class="advice" id="advice"></p>
 
                 <picture>
                     <source srcset="./assets/img/pattern-divider-mobile.svg" media="(max-width: 768px)" />
                     <img src="./assets/img/pattern-divider-desktop.svg" alt="Pattern divider">
                 </picture>
 
-                <button class="dice">
+                <button class="dice" id="dice-btn">
                     <img src="./assets/img/icon-dice.svg" alt="Dice button">
                 </button>
         </main>
     </section>
+
+    <script src="./assets/js/main.js"></script>
 </body>
 
 </html>
